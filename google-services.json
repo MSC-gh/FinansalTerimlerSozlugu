@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1078591357857",
+    "firebase_url": "https://ft-sozluk-default-rtdb.firebaseio.com",
+    "project_id": "ft-sozluk",
+    "storage_bucket": "ft-sozluk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078591357857:android:cacda5384542416d57c1e0",
+        "android_client_info": {
+          "package_name": "com.fts.ftsozlukapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078591357857-o7fibn1ddim9c6vmuim5n87udoo5ms0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_wcPgd4SuqTcO0qbnq2-oFgo-e2AsXgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078591357857-o7fibn1ddim9c6vmuim5n87udoo5ms0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
